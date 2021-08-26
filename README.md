@@ -1,2 +1,2 @@
-# hello-worl
+# hello-world
 fluffy-waddle-repository
